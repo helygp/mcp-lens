@@ -1,6 +1,6 @@
 [project]
 name = "mcp-lens-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Progressive disclosure for large MCP tool catalogs: 3 stable meta-tools instead of one tool per endpoint."
 readme = "README.md"
 license = "Apache-2.0"

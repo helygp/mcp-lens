@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1
+
+Fixes README install instructions that still referenced the old PyPI
+package name after the 0.1.0 → mcp-lens-py rename. No code changes.
+
 ## 0.1.0 — unreleased
 
 Initial extraction of the progressive-disclosure pattern (previously
