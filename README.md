@@ -70,19 +70,19 @@ Add mcp-lens to a new or existing Python project with
 [uv](https://docs.astral.sh/uv/getting-started/installation/):
 
 ```bash
-uv add mcp-lens
+uv add mcp-lens-py
 ```
 
 Or with pip:
 
 ```bash
-pip install mcp-lens
+pip install mcp-lens-py
 ```
 
 **Installing from source — track `main`:**
 
 ```bash
-uv add "mcp-lens @ git+https://github.com/helygp/mcp-lens.git@main"
+uv add "mcp-lens-py @ git+https://github.com/helygp/mcp-lens.git@main"
 ```
 
 ## Quick Start
