@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use mcp-lens or the pattern in SPEC.md, please cite it as below."
+title: "mcp-lens: Progressive disclosure for large MCP tool catalogs"
+authors:
+  - family-names: Pasqual
+    given-names: Hely
+version: 0.1.0
+date-released: 2026-08-10
+url: "https://github.com/helygp/mcp-lens"
+license: Apache-2.0
